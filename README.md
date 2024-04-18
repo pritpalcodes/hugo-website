@@ -51,7 +51,11 @@ Throughout the development of pp_codes, several important lessons were learned:
 - **Responsive Design Principles**: Implementing responsive design principles to ensure a seamless experience across devices.
 
 ## The Website
+dark theme:
 ![image](https://github.com/pritpalcodes/pp_codes_hugo_gokarna/assets/90276050/497e715d-f186-4421-b5f8-a32a60f39b4b)
+
+light theme:
+![image](https://github.com/pritpalcodes/pp_codes_hugo_gokarna/assets/90276050/6661e57a-6826-446d-90ff-2868ee6eb26b)
 
 
 
