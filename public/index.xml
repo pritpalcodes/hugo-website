@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pp_codes</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on pp_codes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Oct 2022 10:00:00 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Thu, 20 Oct 2022 10:00:00 +0530</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>$who-am-i My name is Pritpal (प्रित्पाल/ਪ੍ਰਿਤਪਾਲ) Singh, however I am famous among my friends as Preeto. You can use the pronouns he/him/his when you talk about me in English. That picture up there really is a picture of me, but from 2012. A more recent photo of me is on LinkedIn. During my ML internship, I dove headfirst into the world of machine learning, learning by doing and eagerly awaiting the certificate to prove it.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/project/</link>
+      <pubDate>Thu, 20 Oct 2022 10:00:00 +0530</pubDate>
+      <guid>//localhost:1313/project/</guid>
+      <description>$npm-i-projects I thrive on diving into projects headfirst, embracing challenges as opportunities to grow. I believe in learning by doing, even when starting with minimal expertise. Development Cynthia Ugwu. Developed a modern responsive portfolio website for Cynthia Ugwu, a product designer in Toronto. Demonstrates clean and functional design principles for showcasing design portfolios. Utilized MERN stack (MongoDB, Express.js, React.js, Node.js) for development. Deployed on AWS cloud platform for scalability and reliability.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/index-about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/index-about/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>

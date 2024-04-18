@@ -1,0 +1,64 @@
+baseURL = ""
+defaultContentLanguage = "en"
+languageCode = "en"
+
+title = "pp_codes"
+
+theme = "gokarna"
+
+[params]
+  author = "Pritpal Singh"
+  
+  title = "pp_codes"
+  description = "A Computer Science tudent & an agile software developer adept at navigating complex projects." 
+  avatarURL = "/images/sikh.png" #childhood.png lagana h kahin se to dhoondh kr
+
+  # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
+  avatarSize = "size-xs"
+  
+  keywords = ["Pritpal Singh", "Software Engineer", "Resume", "CV", "Web Application", "Portfolio"]
+  
+  #favicon = "static/favicon_io/favicon.ico"
+
+  
+  #might go in the footer, not here 
+  # [[params.socialIcons]]
+  #   name = "github"
+  #   url = "https://github.com/pritpal"
+  #   weight = 10
+
+  # [[params.socialIcons]]
+  #   name = "linkedin"
+  #   url = "https://www.linkedin.com/in/pritpal-singh-b2a0a01a9/"
+  #   weight = 20
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home" # Unique identifier for a menu item
+    url = "/" # URL for the link
+    pre = "" # You can add extra information before the name (HTML format is supported), such as icons
+    post = "" # You can add extra information after the name (HTML format is supported), such as icons
+    name = "Home"  # Display name
+    weight = 1   # Weights are used to determine the ordering
+
+  [[menu.main]]
+    identifier = "about me"
+    name = "About Me"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/project/"
+    weight = 3
+    
+  [[menu.main]]
+    identifier = "github"
+    url = "https://github.com/pritpalcodes"
+    weight = 100
+    
+    # We use feather-icons: https://feathericons.com/
+    pre = "<span data-feather='github'></span>"
+
